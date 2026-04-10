@@ -1,1 +1,1 @@
-# JayaKrishna-DE.github.io
+# JayaKrishna-AI/ML.github.io
